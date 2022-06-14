@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vctCZ3Pl21dEvZ4uWYf91EyFnZduYVMzLbaWbC5oKbgjtsxWwjjOYzsAqKTs8Dp+OwzJa1TNRMw3QTufNPM+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\103641868\\OneDrive - Swinburne University\\Challenge3OO\\Challenge3OO\\Challenge3oo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\103641868\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\103641868\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
